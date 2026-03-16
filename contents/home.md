@@ -1,11 +1,13 @@
+
 <div class="row">
+
 <div class="col-md-5 text-center">
 <!-- Avatar -->
-<img class="shadow-lg rounded-circle" src="static/assets/img/photo.jpg" alt="Xavier Zhu - Avatar" style="width: 250px; height: 250px; object-fit: cover;">
+<img class="shadow-lg rounded-circle" src="static/assets/img/photo.jpg" alt="ZhuZhen Fang" style="width: 250px; height: 250px; object-fit: cover;">
 <div class="mt-4">
-<h1 class="font-weight-bold">Xavier Zhu</h1>
-<p class="mb-1 text-muted">AI Entrepreneur</p>
-<p class="mb-3 text-primary font-weight-bold">USTC</p>
+<h1 class="font-weight-bold">Zhu Zhenfang</h1> <!-- 显示用户要求的拼音名字，更符合截图的样式  -->
+<p class="mb-1 text-muted">Bachelor of Science</p>
+<p class="mb-3 text-primary font-weight-bold">University of Science and Technology of China</p>
 <!-- Social Icons -->
 <div class="d-flex justify-content-center h3">
 <a href="mailto:xavier.zf@proton.me" class="text-dark mx-2" title="Email"><i class="bi bi-envelope-fill"></i></a>
@@ -28,8 +30,8 @@ I am currently working on AI entrepreneurship. I am open to collaborations - jus
 </p>
 <!-- Quote -->
 <blockquote class="blockquote border-left pl-3 my-4" style="border-left: 5px solid #007bff; padding-left: 15px;">
-<p class="mb-0 font-italic">"The best way to predict the future is to create it."</p>
-<footer class="blockquote-footer mt-1">Peter Drucker</footer>
+<p class="mb-0 font-italic">"近朱者赤，近墨者黑"</p>
+<footer class="blockquote-footer mt-1">Chinese Proverb</footer>
 </blockquote>
 <div class="row mt-5">
 <div class="col-12">

@@ -1,7 +1,7 @@
 <div class="row">
 <div class="col-md-5 text-center">
 <!-- Avatar -->
-<img class="shadow-lg rounded-circle" src="static/assets/img/ger.jpg" alt="Xavier Zhu - Avatar" style="width: 250px; height: 250px; object-fit: cover;">
+<img class="shadow-lg rounded-circle" src="static/assets/img/photo.jpg" alt="Xavier Zhu - Avatar" style="width: 250px; height: 250px; object-fit: cover;">
 <div class="mt-4">
 <h1 class="font-weight-bold">Xavier Zhu</h1>
 <p class="mb-1 text-muted">AI Entrepreneur</p>
@@ -9,7 +9,7 @@
 <!-- Social Icons -->
 <div class="d-flex justify-content-center h3">
 <a href="mailto:xavier.zf@proton.me" class="text-dark mx-2" title="Email"><i class="bi bi-envelope-fill"></i></a>
-<a href="https://github.com/senli1073" class="text-dark mx-2" title="Github"><i class="bi bi-github"></i></a>
+<a href="https://github.com/Libform" class="text-dark mx-2" title="Github"><i class="bi bi-github"></i></a>
 <a href="#" class="text-dark mx-2" title="Google Scholar"><i class="bi bi-journal-check"></i></a>
 <a href="#" class="text-dark mx-2" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
 </div>
@@ -21,7 +21,7 @@
 I am Xavier Zhu (Chinese: 朱振方). I earned my Bachelor's degree from the <a href="https://www.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a> (Class of 2019).
 </p>
 <p>
-Prior to my entrepreneurial journey, I built a strong foundation in computer science and mathematics during my undergraduate studies. I am deeply passionate about the transformative potential of artificial intelligence.
+Prior to my entrepreneurial journey, I built my expertise in computer science through intensive self-study. I am deeply passionate about the transformative potential of artificial intelligence.
 </p>
 <p class="text-danger font-weight-bold">
 I am currently working on AI entrepreneurship. I am open to collaborations - just drop me an email if you have any interesting ideas or projects in mind!
@@ -45,7 +45,7 @@ I am currently working on AI entrepreneurship. I am open to collaborations - jus
 <div class="d-flex align-items-center mb-3">
 <i class="bi bi-mortarboard-fill text-primary h4 mr-3 mb-0"></i> &nbsp;
 <div>
-<strong>B.E., University of Science and Technology of China (USTC)</strong>
+<strong>B.S., University of Science and Technology of China (USTC)</strong>
 <div class="text-muted small">2019 — 2023</div>
 </div>
 </div>

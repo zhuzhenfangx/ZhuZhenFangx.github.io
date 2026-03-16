@@ -20,7 +20,7 @@
 <div class="col-md-7">
 <h2 class="mb-4">Biography</h2>
 <p>
-I am Xavier Zhu (Chinese: 朱振方). I earned my Bachelor's degree from the <a href="https://www.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a> (Class of 2019).
+I am Xavier Zhu (Chinese: 朱振方). I earned my Bachelor's degree from the <a href="https://www.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a> (Grade 2019).
 </p>
 <p>
 Prior to my entrepreneurial journey, I built my expertise in computer science through intensive self-study. I am deeply passionate about the transformative potential of artificial intelligence.

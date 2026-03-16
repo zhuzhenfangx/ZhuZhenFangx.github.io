@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+## Welcome
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+This is the homepage of Xavier Zhu (朱振方).
+
+I graduated from the University of Science and Technology of China (USTC) in 2023 (Class of 2019). I am currently working on AI entrepreneurship.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: xavier.zf@proton.me
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+- B.E., University of Science and Technology of China (USTC), 2019—2023.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Artificial Intelligence; Entrepreneurship
 

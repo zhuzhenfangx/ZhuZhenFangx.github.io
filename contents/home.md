@@ -5,9 +5,9 @@
 <!-- Avatar -->
 <img class="shadow-lg rounded-circle" src="static/assets/img/photo.jpg" alt="ZhuZhen Fang" style="width: 250px; height: 250px; object-fit: cover;">
 <div class="mt-4">
-<h1 class="font-weight-bold">Zhu Zhenfang</h1> <!-- 显示用户要求的拼音名字，更符合截图的样式  -->
+<h1 class="font-weight-bold">Zhu Zhenfang (朱振方)</h1> <!-- 显示用户要求的拼音名字，更符合截图的样式  -->
 <p class="mb-1 text-muted">AI Entrepreneur</p>
-<p class="mb-3 text-primary font-weight-bold">USTC</p>
+<p class="mb-3 text-primary font-weight-bold">中国科学技术大学 (USTC)</p>
 <!-- Social Icons -->
 <div class="d-flex justify-content-center h3">
 <a href="mailto:xavier.zf@proton.me" class="text-dark mx-2" title="Email"><i class="bi bi-envelope-fill"></i></a>
@@ -20,7 +20,7 @@
 <div class="col-md-7">
 <h2 class="mb-4">Biography</h2>
 <p>
-I am Xavier Zhu (Chinese: 朱振方). I earned my Bachelor's degree from the <a href="https://www.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a> (Grade 2019).
+I am Xavier Zhu (Chinese: 朱振方). I earned my Bachelor's degree from the <a href="https://www.ustc.edu.cn/" target="_blank">University of Science and Technology of China (中国科学技术大学, USTC)</a> (Grade 2019).
 </p>
 <p>
 Prior to my entrepreneurial journey, I built my expertise in computer science through intensive self-study. My path was shaped not by traditional coursework, but by a <strong>"Hacking spirit"</strong>—learning through building, driven by curiosity and the direct application of knowledge.
